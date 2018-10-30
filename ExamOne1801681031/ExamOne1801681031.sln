@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleAria", "RectangleAria\RectangleAria.csproj", "{BB417C74-88DC-4C2D-9992-3823DB89F80C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AverageNumber", "AverageNumber\AverageNumber.csproj", "{FCDDC707-9E91-4ECE-A7C4-B2DD69EBA84E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{BB417C74-88DC-4C2D-9992-3823DB89F80C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB417C74-88DC-4C2D-9992-3823DB89F80C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB417C74-88DC-4C2D-9992-3823DB89F80C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCDDC707-9E91-4ECE-A7C4-B2DD69EBA84E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCDDC707-9E91-4ECE-A7C4-B2DD69EBA84E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCDDC707-9E91-4ECE-A7C4-B2DD69EBA84E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCDDC707-9E91-4ECE-A7C4-B2DD69EBA84E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
