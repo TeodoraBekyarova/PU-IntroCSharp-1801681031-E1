@@ -6,7 +6,7 @@ namespace PiggyBank
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Не ми стигна времето");
+            Console.WriteLine("Грух");
         }
     }
 }
